@@ -1,2 +1,2 @@
-# php-mvc-template
-A custom PHP Model View Controller pattern.
+# PHP MVC Template
+A custom PHP Model View Controller pattern for starting new PHP projects.
